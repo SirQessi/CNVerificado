@@ -69,4 +69,4 @@ process.on('uncaughtException', (err) => {
     console.error(errmsg)
 })
 
-bot.login(process.env.token.);
+client.login(process.env.B0T_TOKEN.);
