@@ -1,1 +1,1 @@
-worker: node verify.js
+node verify.js
